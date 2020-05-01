@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "373554745128",
+    "firebase_url": "https://ftapp-792d5.firebaseio.com",
+    "project_id": "ftapp-792d5",
+    "storage_bucket": "ftapp-792d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373554745128:android:4569b7c11bf095178b0a1d",
+        "android_client_info": {
+          "package_name": "com.example.ftapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373554745128-3jpn1d1dd5uu3vfbhua92dn3fm6qlik8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ftapp",
+            "certificate_hash": "ff1e7337253619d3c9eb38639cac30d5a370570b"
+          }
+        },
+        {
+          "client_id": "373554745128-f2vu6abfhkaliu9pj6mv7lt767aj0bg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4sTt2e_R7veltxvXAxnLTAaIqo8qqiEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373554745128-f2vu6abfhkaliu9pj6mv7lt767aj0bg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

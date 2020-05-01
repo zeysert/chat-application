@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity">
+
+
+    <include
+        android:id="@+id/actionbarlogin"
+        layout="@layout/actionbar_app" />
+
+    <TextView
+        android:textColor="#FF4081"
+        android:id="@+id/login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LOGİN"
+        android:layout_marginTop="100dp"
+        android:layout_marginStart="20dp"
+        android:textSize="30sp"/>
+
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="200dp"
+        android:background="@android:color/white"
+        android:text="user name"
+        android:textColor="@android:color/black"
+        android:textSize="30sp" />
+
+
+
+    <EditText
+        android:textColor="@android:color/black"
+        android:background="@android:color/white"
+        android:layout_width="200dp"
+
+        android:id="@+id/password"
+        android:layout_height="wrap_content"
+        android:text="password"
+        android:inputType="textPassword"
+        android:layout_marginTop="300dp"
+        android:layout_marginStart="20dp"
+        android:textSize="30sp"/>
+
+    <Button
+        android:textColor="@android:color/black"
+
+        android:background="#FF4081"
+        android:id="@+id/ok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OK"
+        android:layout_marginTop="500dp"
+        android:layout_marginStart="160dp"
+        android:textSize="20sp"/>
+
+</RelativeLayout>

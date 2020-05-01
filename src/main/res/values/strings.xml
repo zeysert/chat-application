@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FTAPP</string>
+    <string name="yen_hesap_olu_tur">YENİ HESAP OLUŞTUR</string>
+    <string name="g_r">GİRİŞ</string>
+    <string name="find_a_teammate_app">find a teammate app</string>
+    <string name="email">email</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
